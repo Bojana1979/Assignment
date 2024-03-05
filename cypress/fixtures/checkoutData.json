@@ -1,0 +1,10 @@
+{
+    "firstName" : "Mirjana",
+    "lastName": "Mirjanic",
+    "postalCode": "21000",
+    "checkoutHeaderText": "Checkout: Overview",
+    "checkoutSecondaryHeaderText": "Checkout: Complete!",
+    "totalSum": "10.79",
+    "completeHeaderText": "Thank you for your order!",
+    "checkoutText": "Your order has been dispatched, and will arrive just as fast as the pony can get there!"
+}
